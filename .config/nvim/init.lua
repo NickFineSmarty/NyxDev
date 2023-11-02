@@ -6,7 +6,6 @@ require("plugins.neosolarized")
 require("plugins.lualine")
 require("plugins.telescope")
 require("plugins.lsp")
-require("plugins.treesitter")
 require("plugins.cmp")
 require("plugins.autopairs")
 require("plugins.colorizer")
@@ -16,6 +15,8 @@ require("plugins.null-ls")
 require("plugins.prettier")
 require("plugins.mason")
 require("plugins.lspsaga")
+require("plugins.treesitter")
+require("plugins.web-devicons")
 
 local has = vim.fn.has
 local is_mac = has "macunix"
