@@ -1,9 +1,13 @@
 ![Alt text]()
 
+![fish screenshot](./images/screenshot-1.png)
+
+![nvim screenshot](./images/screenshot-neovim.png)
+
+
 
 # Nyx's dotfiles
-
-**Warning**: Don’t blindly use my settings unless you know what that entails. Use at your own risk!
+![alt text](./.config/image/1.png)
 
 ### Looking for a Markdown note-taking app?
 
