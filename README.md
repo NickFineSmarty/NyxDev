@@ -1,11 +1,3 @@
-![Alt text]()
-
-![fish screenshot](./images/screenshot-1.png)
-
-![nvim screenshot](./images/screenshot-neovim.png)
-
-
-
 # Nyx's dotfiles
 ![alt text](./.config/image/1.png)
 
